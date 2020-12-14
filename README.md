@@ -5,4 +5,5 @@
 - 🔭 I’m working on interactive graphics for DE analysis at the Ritchie lab (WEHI)
 - 👯 I’d love to have a chat about HCI, robotics, education, health and literature
 - 🤔 I’d appreciate any book recommendations (preferably fiction!)
-<!-- - 📫 How to reach me: send me an -->
+
+📫 The best way to reach me is through [Twitter](https://twitter.com/_hasaru)!

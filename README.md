@@ -6,4 +6,4 @@
 - 🔭 I've done some work in interactive graphics for gene analysis at the Ritchie lab (WEHI)
 - 🤔 I’d appreciate any book recommendations (preferably fiction!)
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/hasaru-k-069a2415b?trk=people-guest_people_search-card
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/hasaru-k-069a2415b?trk=people-guest_people_search-card)
